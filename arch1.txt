@@ -1,2 +1,6 @@
+IMPORT bjsnvds
 hola!!!!
 ahora agregué mas texto!
+
+while true
+    sheeps += 1
